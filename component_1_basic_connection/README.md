@@ -45,6 +45,7 @@ export GOOGLE_API_KEY="your-key-here"
 - `check_models.py` - Utility script to list available models for your API key
 - `README.md` - This guide
 - `FAQ.md` - Common issues and solutions (check this if you run into problems!)
+- `blog_post.md` - Complete blog post with detailed explanations and theory
 
 ## Running the Code
 

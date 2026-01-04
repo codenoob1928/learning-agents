@@ -205,13 +205,13 @@ Please open an issue or submit a pull request!
 
 ## Series Links
 
-- **Part 1**: What is an Agent? (You are here)
-- **Part 2**: Tool Calling (Coming soon)
-- **Part 3**: The Agent Loop (Coming soon)
-- **Part 4**: Planning & Reasoning (Coming soon)
-- **Part 5**: Memory & Context (Coming soon)
-- **Part 6**: Error Handling (Coming soon)
-- **Part 7**: Full Research Agent (Coming soon)
+- **Part 1: What is an Agent?** - [📖 Read the blog post](component_1_basic_connection/blog_post.md) | [💻 View the code](component_1_basic_connection/)
+- **Part 2: Tool Calling** (Coming soon)
+- **Part 3: The Agent Loop** (Coming soon)
+- **Part 4: Planning & Reasoning** (Coming soon)
+- **Part 5: Memory & Context** (Coming soon)
+- **Part 6: Error Handling** (Coming soon)
+- **Part 7: Full Research Agent** (Coming soon)
 
 ## Acknowledgments
 
